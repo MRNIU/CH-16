@@ -3,7 +3,7 @@
 
 CH-16 激光雷达数据解析
 
-使用 cmake 编译
+使用 cmake 构建
 
 ```shell
 mkdir build && cd build
